@@ -1,0 +1,2 @@
+### Create orders.
+POST http://localhost:7071/api/orders HTTP/1.1
